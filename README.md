@@ -34,14 +34,34 @@ Egern俗称小松鼠
 ![image](https://user-images.githubusercontent.com/89105781/183353820-098870cf-731a-4d81-829a-49cd234cdb79.png)
 
 
-2.在内部填入您的订阅链接
+2.在内部填入您的订阅链接（记得导入所有的订阅链接，因为现阶段的小松鼠还不支持一键导入全部）
 
 
 ![image](https://user-images.githubusercontent.com/89105781/183354301-4d58f776-5360-4a37-8377-190cde494fe2.png)
 
 PS：更具您的机场格式选择在[类型]中选择适合你的订阅类型
 （比如：Shadowsocks是对小火箭的兼容则小火箭能用的使用这个格式在Egern就可以使用）
+具体表格也放在旁边了
 
+![image](https://user-images.githubusercontent.com/89105781/183358619-32ee1be2-9e6b-4e28-a1c4-5d22d48dffa8.png)
 ![image](https://user-images.githubusercontent.com/89105781/183354614-a93fca2d-2c89-42e1-8d5a-71331e611c57.png)
+
+# 策略组
+选择策略组，点击右上角加号，使用一个你喜欢的名字
+选择类型（以下是翻译）后选择可用的订阅（比如刚刚你导入的或者直连）（直连是DIECT）PS：建议放入你的所有订阅选路，方便选择
+
+![image](https://user-images.githubusercontent.com/89105781/183359181-8a3cad89-ff27-4ac7-88b5-e26eff58fe82.png)
+
+具体内容 具体内容 具体内容 具体内容 具体内容
+
+![image](https://user-images.githubusercontent.com/89105781/183359325-38c3be40-b049-4e7a-8fe9-3cbc05f5ad3c.png)
+
+# 规则
+老样子选择右上角的加号添加新的规则
+类型的翻译如下
+
+![image](https://user-images.githubusercontent.com/89105781/183360274-f295a0e2-e650-40f8-b07a-58cfeaa82390.png)
+
+此处拿domain举例，例如我们要让谷歌走香港节点我们就需要在匹配中填入Google.com；若我们访问的是Googel.HK则无法命中改规则 则走兜底（兜底=Proxy）
 
 
