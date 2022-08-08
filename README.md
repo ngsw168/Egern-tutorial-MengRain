@@ -75,25 +75,35 @@ PS：更具您的机场格式选择在[类型]中选择适合你的订阅类型
 
 此处那geoip举例，例如我们要让中国的链接（此处的中国网页是指结尾是CN的链接）都走直连，那么我们只需使用geoip并在匹配中选择对应的国家代号CN并在策略中选择直连即可
 
-PS：常用的国家（地区）代号如下
+PS A：常用的国家（地区）代号如下
 
 CN 中国   US 美国   TW 台湾省   HK 香港特别行政区   MO 澳门特别行政区   RU 俄罗斯   US 英国   JP 日本   KR 韩国（南韩）  TR 土耳其   SG 新加坡   MY 马来西亚
 
+PS　B：感谢　@Coldvvater　自愿做的移植工作，这是他的规则仓库：[点击此处跳转](https://github.com/Coldvvater/Egern/tree/master/Rule)　诸位可以在他的仓库中寻找到自己需要的规则
+
+
 # 重写
-{重写是什么
+{重写是什么？重写是指重写客户端发送的请求，然后再转发给服务器}
+【因为作者也不会，所以先放概念图吧以后再更新这个板块QwQ】
 
+![image](https://user-images.githubusercontent.com/89105781/183366021-e04891a6-0d2d-42db-bcdd-b4e69e412f61.png)
 
+![image](https://user-images.githubusercontent.com/89105781/183366062-51dfa172-446a-4350-8c5c-e2d4d0ae9930.png)
 
+![image](https://user-images.githubusercontent.com/89105781/183366104-38e121a4-aa69-4b35-a011-820a9b140adf.png)
 
+# 脚本
+普通人用不到不用管他（因为有些模块会自带脚本比如BosJS）
 
+# 模块
+{什么是模块？模块能作的事情很多例如解锁中国iPhone被锁的功能，比如去广告，比如给YouTube添加机翻字幕等等}
 
+由于是新软件模块都没什么适配XDDDD
 
+在此再次感谢　@Coldvvater　自愿做的移植工作，这是他的规则仓库：[点击此处跳转](https://github.com/Coldvvater/Egern/tree/master/Module)　诸位可以在他的仓库中寻找到自己需要的模块
 
-
-
-
-
-
+＃　尾言
+我们十分欢迎各位的补充和纠错，诸位可以加入TG群组进行讨论｛[点击此处跳入吧](https://t.me/mengdelaochao)｝
 
 
 
