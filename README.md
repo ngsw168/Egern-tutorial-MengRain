@@ -103,7 +103,7 @@ PS B：感谢　@Coldvvater　自愿做的移植工作，这是他的规则仓�
 在此再次感谢　@Coldvvater　自愿做的移植工作，这是他的规则仓库：[点击此处跳转](https://github.com/Coldvvater/Egern/tree/master/Module)　诸位可以在他的仓库中寻找到自己需要的模块
 
 
-＃ 结语
+# 结语
 我们十分欢迎各位的补充和纠错，诸位可以加入TG群组进行讨论｛[点击此处跳入吧](https://t.me/mengdelaochao)｝
 
 
