@@ -1,9 +1,9 @@
 # 前言
 本篇是Egern的教学旨在方便大家上手（有帮助的话点个关注吧）
 
-我的TG频道：https://t.me/mengyulianmian
+我的TG频道：[点击一键关注](https://t.me/mengyulianmian)
 
-我的TG交流群：https://t.me/mengdelaochao
+我的TG交流群：[点击一键加入](https://t.me/mengdelaochao)
 
 感谢采用本教学
 
@@ -79,7 +79,7 @@ PS A：常用的国家（地区）代号如下
 
 CN 中国   US 美国   TW 台湾省   HK 香港特别行政区   MO 澳门特别行政区   RU 俄罗斯   US 英国   JP 日本   KR 韩国（南韩）  TR 土耳其   SG 新加坡   MY 马来西亚
 
-PS　B：感谢　@Coldvvater　自愿做的移植工作，这是他的规则仓库：[点击此处跳转](https://github.com/Coldvvater/Egern/tree/master/Rule)　诸位可以在他的仓库中寻找到自己需要的规则
+PS B：感谢　@Coldvvater　自愿做的移植工作，这是他的规则仓库：[点击此处跳转](https://github.com/Coldvvater/Egern/tree/master/Rule)　诸位可以在他的仓库中寻找到自己需要的规则
 
 
 # 重写
@@ -102,7 +102,8 @@ PS　B：感谢　@Coldvvater　自愿做的移植工作，这是他的规则仓
 
 在此再次感谢　@Coldvvater　自愿做的移植工作，这是他的规则仓库：[点击此处跳转](https://github.com/Coldvvater/Egern/tree/master/Module)　诸位可以在他的仓库中寻找到自己需要的模块
 
-＃　尾言
+
+＃ 结语
 我们十分欢迎各位的补充和纠错，诸位可以加入TG群组进行讨论｛[点击此处跳入吧](https://t.me/mengdelaochao)｝
 
 
