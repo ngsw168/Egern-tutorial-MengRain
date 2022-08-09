@@ -100,7 +100,7 @@ PS：更具您的机场格式选择在[类型]中选择适合你的订阅类型
 
 PS A：常用的国家（地区）代号如下：
 
-CN 中国   US 美国   TW 台湾省   HK 香港特别行政区   MO 澳门特别行政区   RU 俄罗斯   US 英国   JP 日本   KR 韩国（南韩）  TR 土耳其   SG 新加坡   MY 马来西亚
+CN 中国 | US 美国 | TW 台湾省 | HK 香港特别行政区 | MO 澳门特别行政区 | RU 俄罗斯 | US 英国 | JP 日本 | KR 韩国（南韩) | TR 土耳其 |SG 新加坡 | MY 马来西亚
 
 PS B：感谢 @Coldvvater 自愿做的移植工作，这是他的规则仓库：[点击此处跳转](https://github.com/Coldvvater/Egern/tree/master/Rule)　诸位可以在他的仓库中寻找到自己需要的规则
 
