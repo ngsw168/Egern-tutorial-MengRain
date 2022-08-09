@@ -128,6 +128,22 @@ PS B：感谢 @Coldvvater 自愿做的移植工作，这是他的规则仓库：
 
 在此再次感谢 @Coldvvater 自愿做的移植工作，这是他的规则仓库：[点击此处跳转](https://github.com/Coldvvater/Egern/tree/master/Module)　诸位可以在他的仓库中寻找到自己需要的模块
 
+Ringo的项目已经在逐步适配松鼠了（项目地址:https://github.com/VirgilClyne/iRingo/ )
+
+这里来教一下怎么添加模块
+
+1. 选择[工具]下滑选择[模块]点击右上角加号
+
+![image](https://user-images.githubusercontent.com/89105781/183590432-c5393980-9bf5-45c1-9e06-09f1c87bbff9.png)
+
+2. 在URL里填入你所需要导入的模块的链接
+
+![image](https://user-images.githubusercontent.com/89105781/183590464-d0d18b32-5824-448b-9200-c364a8686691.png)
+
+3. 若需要对已经添加的模块进行 排序 可选择加号左边的编辑按钮然后长按右边的“三”即可拖动排序
+
+![image](https://user-images.githubusercontent.com/89105781/183590884-ff704357-6f0e-49de-b0b1-5ded8ab836cb.png)
+
 
 # 结语
 我们十分欢迎各位的补充和纠错，诸位可以加入TG群组进行讨论｛[点击此处跳入吧](https://t.me/mengdelaochao)｝
