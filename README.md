@@ -128,7 +128,7 @@ PS B：感谢 @Coldvvater 自愿做的移植工作，这是他的规则仓库：
 
 在此再次感谢 @Coldvvater 自愿做的移植工作，这是他的规则仓库：[点击此处跳转](https://github.com/Coldvvater/Egern/tree/master/Module)　诸位可以在他的仓库中寻找到自己需要的模块
 
-Ringo的项目已经在逐步适配松鼠了（项目地址:https://github.com/VirgilClyne/iRingo/ )
+ @Ringo 的项目已经在逐步适配松鼠了（项目地址:[点击跳转](https://github.com/VirgilClyne/iRingo/) )
 
 这里来教一下怎么添加模块
 
