@@ -1,4 +1,6 @@
 # 前言
+大家好我是 MengRain
+
 本篇是Egern的教学旨在方便大家上手（有帮助的话点个关注吧）
 
 我的TG频道：[点击一键关注](https://t.me/mengyulianmian)
